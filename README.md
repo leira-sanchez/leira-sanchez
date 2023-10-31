@@ -1,5 +1,5 @@
 # Leira Sánchez
-### Founding Software Engineer at listentojam.com | Founder at mofongojobs.com
+### Founder at mofongojobs.com | Prev: Founding Software Engineer at listentojam.com
 
 ⤷ Mechanical Engineer turned Software Engineer. Experienced in Web and Mobile development with React, React Native, JavaScript & TypeScript, NodeJS, Prisma, Sequelize, PostgreSQL.
 
@@ -9,7 +9,26 @@
 
 ϟ Currently Cconnecting Puerto Rico-based talent with local and remote professional opportunities through Mofongo Jobs.
 
-ϟ Left Capital One in DC to relocate to Puerto Rico.
+#### My origin story
+
+I always wanted to become an Automotive Engineer but through internships and an undergraduate research in Design Thinking with VR, I also grew interested in learning to code. I wanted to build a mobile game for phones based in Puerto Rico’s culture. So when Capital One offered me to join their Developer Academy (getting paid to learn? Yes!), I rejected my full-time offer from General Motors. You can read more about that experience in this [article I wrote for the Capital One blog](https://www.capitalone.com/tech/culture/my-journey-through-capital-one-developer-academy/).
+
+
+#### What I’ve built
+* Built the ability for organizations to have dynamic, auto-branded assets out of the box using SVGs, React and Redux for a live events platform. Read more [here](https://www.experiencewelcome.com/blog/stagekit?utm_content=210686866)
+* Built a podcast social network mobile app (Jam) from the ground up with React Native, TypeScript and Styled Components. 
+      [Android](https://j4m.ai/android) [iOS](https://j4am.ai/ios) [Web](listentojam.com)
+* Contributed to the web version of Jam in NextJS and Tailwind as well as the backend with Node, Prisma, and PostgreSQL  
+* Developed and maintained intelligent marketing & messaging features for the Capital One iOS app
+* [Mofongojobs.com](mofongojobs.com) where I help Puerto Rican professionals stay in PR by connecting them with local and remote career opportunities. Tech stack: React (migrated to NextJS for SEO), Strapi for CMS, Tailwind CSS. Currently working on a NodeJS backend.
+* [RetratoProfesional.com](retratoprofesional.com) - Professional Headshots using AI
+* [LinkedIn Headline Analyzer](mofongojobs.com/linkedin) - Analyzes your LinkedIn Headline and gives you instant feedback. Uses Chat GPT.
+
+  
+#### Why I’m a good fit for Startups
+- Have been working remotely most of my career and have mastered async communications
+- Product-minded engineer: I don't just code. I build. I ship.
+- Continuous feedback (giving and requesting) are a core part of my work
 
  ## Skills
    <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/mui.svg" alt="Material UI" width="25" height="25" /></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://graphql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/graphql.svg" alt="GraphQL" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> <a href="https://www.heroku.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/heroku.svg" alt="Heroku" width="25" height="25" /></a> <a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a> 
