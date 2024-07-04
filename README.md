@@ -1,13 +1,13 @@
 # Leira Sánchez
 ### Founder at mofongojobs.com | Prev: Founding Software Engineer at listentojam.com
 
-⤷ Mechanical Engineer turned Software Engineer. Experienced in Web and Mobile development with React, React Native, JavaScript & TypeScript, NodeJS, Prisma, Sequelize, PostgreSQL.
+⤷ Mechanical Engineer turned Software Engineer. Experienced in Web and Mobile development with React, React Native, NextJS, Tailwind CSS, JavaScript & TypeScript, NodeJS, Prisma, PostgreSQL, AWS Amplify, Heroku, Vercel.
 
  <a aligh="left" href="https://https://mofongojobs.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:leira@mofongojobs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/MechEngSanchez" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/leirasanchez" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
 ⚐ Based in Puerto Rico
 
-ϟ Currently Cconnecting Puerto Rico-based talent with local and remote professional opportunities through Mofongo Jobs.
+ϟ Currently Connecting Puerto Rico-based talent with local and remote professional opportunities through Mofongo Jobs.
 
 #### My origin story
 
