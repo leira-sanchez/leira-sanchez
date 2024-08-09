@@ -20,9 +20,9 @@ I always wanted to become an Automotive Engineer but through internships and an 
       [Android](https://j4m.ai/android) [iOS](https://j4am.ai/ios) [Web](listentojam.com)
 * Contributed to the web version of Jam in NextJS and Tailwind as well as the backend with Node, Prisma, and PostgreSQL  
 * Developed and maintained intelligent marketing & messaging features for the Capital One iOS app
-* [Mofongojobs.com](mofongojobs.com) where I help Puerto Rican professionals stay in PR by connecting them with local and remote career opportunities. Tech stack: React (migrated to NextJS for SEO), Strapi for CMS, Tailwind CSS. Currently working on a NodeJS backend.
-* [RetratoProfesional.com](retratoprofesional.com) - Professional Headshots using AI
-* [LinkedIn Headline Analyzer](mofongojobs.com/linkedin) - Analyzes your LinkedIn Headline and gives you instant feedback. Uses Chat GPT.
+* [Mofongojobs.com](https://www.mofongojobs.com) where I help Puerto Rican professionals stay in PR by connecting them with local and remote career opportunities. Tech stack: React (migrated to NextJS for SEO), Strapi for CMS, Tailwind CSS. Currently working on a NodeJS backend.
+* [RetratoProfesional.com](https://www.retratoprofesional.com) - Professional Headshots using AI
+* [LinkedIn Headline Analyzer](https://www.mofongojobs.com/linkedin) - Analyzes your LinkedIn Headline and gives you instant feedback. Uses Chat GPT.
 
   
 #### Why I’m a good fit for Startups
