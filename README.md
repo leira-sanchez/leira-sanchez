@@ -1,34 +1,114 @@
-# Leira Sánchez
-### Founder at mofongojobs.com | Prev: Founding Software Engineer at listentojam.com
+<h1 align="center">Hi, I'm Leira Sánchez ✨</h1>
+<p align="center">
+  <b>Fullstack Senior Software Engineer</b> · <b>Founder, <a href="https://www.mofongojobs.com">MofongoJobs.com</a></b>
+</p>
 
-⤷ Mechanical Engineer turned Software Engineer. Experienced in Web and Mobile development with React, React Native, NextJS, Tailwind CSS, JavaScript & TypeScript, NodeJS, Prisma, PostgreSQL, AWS Amplify, Heroku, Vercel.
+<p align="center">
+  <a href="https://www.leirasanchez.com"><img alt="Website" src="https://img.shields.io/badge/Website-leirasanchez.com-111827?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/leirasanchez"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-leirasanchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/MechEngSanchez"><img alt="X" src="https://img.shields.io/badge/X-@MechEngSanchez-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:leira@mofongojobs.com"><img alt="Email" src="https://img.shields.io/badge/Email-leira@mofongojobs.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
- <a aligh="left" href="https://https://mofongojobs.com/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:leira@mofongojobs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/MechEngSanchez" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/leirasanchez" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+---
 
-⚐ Based in Puerto Rico
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-ϟ Currently Connecting Puerto Rico-based talent with local and remote professional opportunities through Mofongo Jobs.
+### 👩‍💻 About Me
+- Product-minded engineer based in the **SF Bay Area, CA** with roots in **Puerto Rico** 🇵🇷
+- Currently on the **Growth Engineering** team at **Netflix**
+- Building **Mofongo Jobs** to help Puerto Rican professionals find meaningful opportunities
+- Mechanical Engineer turned Software Engineer
+- Bilingual: **English + Español**
 
-#### My origin story
+</td>
+<td valign="top" width="40%">
 
-I always wanted to become an Automotive Engineer but through internships and an undergraduate research in Design Thinking with VR, I also grew interested in learning to code. I wanted to build a mobile game for phones based in Puerto Rico’s culture. So when Capital One offered me to join their Developer Academy (getting paid to learn? Yes!), I rejected my full-time offer from General Motors. You can read more about that experience in this [article I wrote for the Capital One blog](https://www.capitalone.com/tech/culture/my-journey-through-capital-one-developer-academy/).
+### ⚡ Focus Areas
+- Growth systems
+- Fullstack product development
+- Mobile + web experiences
+- AI-powered product features
+- Career-tech for underserved communities
 
+</td>
+  </tr>
+</table>
 
-#### What I’ve built
-* Built the ability for organizations to have dynamic, auto-branded assets out of the box using SVGs, React and Redux for a live events platform. Read more [here](https://www.experiencewelcome.com/blog/stagekit?utm_content=210686866)
-* Built a podcast social network mobile app (Jam) from the ground up with React Native, TypeScript and Styled Components. 
-      [Android](https://j4m.ai/android) [iOS](https://j4am.ai/ios) [Web](listentojam.com)
-* Contributed to the web version of Jam in NextJS and Tailwind as well as the backend with Node, Prisma, and PostgreSQL  
-* Developed and maintained intelligent marketing & messaging features for the Capital One iOS app
-* [Mofongojobs.com](https://www.mofongojobs.com) where I help Puerto Rican professionals stay in PR by connecting them with local and remote career opportunities. Tech stack: React (migrated to NextJS for SEO), Strapi for CMS, Tailwind CSS. Currently working on a NodeJS backend.
-* [RetratoProfesional.com](https://www.retratoprofesional.com) - Professional Headshots using AI
-* [LinkedIn Headline Analyzer](https://www.mofongojobs.com/linkedin) - Analyzes your LinkedIn Headline and gives you instant feedback. Uses Chat GPT.
+---
 
-  
-#### Why I’m a good fit for Startups
-- Have been working remotely most of my career and have mastered async communications
-- Product-minded engineer: I don't just code. I build. I ship.
-- Continuous feedback (giving and requesting) are a core part of my work
+<h2>🛠️ Tech Stack</h2>
 
- ## Skills
-   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/mui.svg" alt="Material UI" width="25" height="25" /></a> <a href="https://redux.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/redux.svg" alt="Redux" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://graphql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/graphql.svg" alt="GraphQL" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> <a href="https://www.heroku.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/heroku.svg" alt="Heroku" width="25" height="25" /></a> <a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a> 
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>JavaScript · TypeScript · Java · Python</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React · Next.js · React Native · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js · PostgreSQL · Prisma · Supabase · OpenAI API</td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td>Vercel · Heroku · AWS · Git · GitHub · Figma</td>
+  </tr>
+</table>
+
+---
+
+<h2>📌 Experience Highlights</h2>
+
+<h3>Netflix — Software Engineer, Growth Engineering</h3>
+<p><i>January 2025 – Present</i></p>
+
+<h3>Mofongo Jobs — Founder</h3>
+<p><i>October 2022 – Present</i></p>
+<ul>
+  <li>Built and launched a responsive job board for Puerto Rican professionals.</li>
+  <li>Designed backend services and APIs for jobs, companies, and user workflows.</li>
+  <li>Growing a career-focused ecosystem for local + remote opportunities.</li>
+</ul>
+
+<h3>Jam — Founding Software Engineer</h3>
+<p><i>August 2022 – September 2023</i></p>
+<ul>
+  <li>Built the mobile app foundation with React Native + TypeScript.</li>
+  <li>Shipped social features across mobile and web.</li>
+  <li>Contributed fullstack features across Next.js, Node.js, Prisma, and PostgreSQL.</li>
+</ul>
+
+<h3>Welcome (YC W20) — Founding Frontend Engineer</h3>
+<p><i>January 2022 – June 2022</i></p>
+<ul>
+  <li>Reduced onboarding time from 16 days to 30 minutes.</li>
+  <li>Built dynamic custom-branded event assets and UX flows.</li>
+</ul>
+
+<h3>Capital One — Software Engineer</h3>
+<p><i>February 2019 – January 2022</i></p>
+<ul>
+  <li>Delivered iOS and fullstack web features at scale.</li>
+  <li>Built internal tooling and customer-facing product improvements.</li>
+</ul>
+
+---
+
+<h2>🌱 Outside of Work</h2>
+<ul>
+  <li>📚 Reading fiction, business, and self-improvement books</li>
+  <li>🐶 Dog parent to Beni (Maltipoo)</li>
+  <li>🎙️ Open to podcast, speaking, and media conversations</li>
+</ul>
+
+---
+
+<p align="center">
+  <b>Let’s build something meaningful.</b><br/>
+  <a href="mailto:leira@mofongojobs.com">Say hello 👋</a>
+</p>
